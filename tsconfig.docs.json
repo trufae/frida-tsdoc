@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "Node16",
+    "lib": ["ES2015"],
+    "types": [],
+    "strict": true,
+    "noEmit": true
+  },
+  "files": [".deps/DefinitelyTyped/types/frida-gum/index.d.ts"]
+}
